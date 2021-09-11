@@ -1,0 +1,66 @@
+body {
+  background: url(img/usamap.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#oglav {
+  color: white;
+  text-align: center;
+  /*margin: 0% 45% 0% 45%; */
+}
+
+#about {
+  color: blue;
+  /* margin: 0% 0% 0% 98%; */
+  float: right;
+}
+
+.block {
+  width: 35%; /* Ширина слоя */
+  margin: 0% 30% 0% 30%; /* Значение отступов */
+  padding: 2%; /* Поля вокруг текста */
+  border: 1px solid black; /* Параметры границы */
+  background: rgb(250, 250, 250); /* Цвет фона */
+}
+
+.june {
+  width: 35%; /* Ширина слоя */
+  margin: 0% 30% 0% 30%; /* Значение отступов */
+  padding: 0% 4% 4% 4%; /* Поля вокруг текста */
+  border: 1px solid black; /* Параметры границы */
+  background: rgb(250, 250, 250); /* Цвет фона */
+}
+
+
+/*.segway1 {
+  float: left;
+  margin: 3px 3px 3px 0;
+} */
+
+.jule {
+  width: 35%; /* Ширина слоя */
+  margin: 0% 30% 0% 30%; /* Значение отступов */
+  padding: 0% 4% 4% 4%; /* Поля вокруг текста */
+  border: 1px solid black; /* Параметры границы */
+  background: rgb(250, 250, 250); /* Цвет фона */
+}
+
+/*.segway2 {
+  float: left;
+  margin: 3px 3px 3px 0;
+}
+*/
+.august {
+  width: 35%; /* Ширина слоя */
+  margin: 0% 30% 0% 30%; /* Значение отступов */
+  padding: 0% 4% 4% 4%; /* Поля вокруг текста */
+  border: 1px solid black; /* Параметры границы */
+  background: rgb(250, 250, 250); /* Цвет фона */
+  overflow: auto;
+}
+
+.three {
+  margin: 0%;
+  text-align: center;
+}
